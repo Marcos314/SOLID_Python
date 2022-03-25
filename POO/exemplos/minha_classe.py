@@ -4,7 +4,6 @@ import re
 class MinhaClasse:
 
     # Método construtor
-
     def __init__(self) -> None:
         
         self.meu_atributo = 'Olá Mundo!'

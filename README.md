@@ -1,3 +1,22 @@
+# POO
+## Encapsulamento
+ 
+- Está relacionado a permissão
+
+- Contextos de uso
+
+
+Exemplo? encapsulamento.py
+
+
+## Getters, Setters e Estados
+
+
+
+
+
+
+
 # S.O.L.I.D
 
 * S: Single Responsability Principle
